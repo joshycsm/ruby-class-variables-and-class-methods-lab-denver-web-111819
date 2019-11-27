@@ -55,7 +55,7 @@ class Song
   # attr_accessor will create reader and writer instance methods for each argument, reader methods will call any given instance variable instance and writer methods will declare any instance of any called instance variable.
   attr_accessor :name, :artist, :genre
   
-  def initialize
+  def initialize(name, artist, genre)
     @name = name
     @artist = artist
     @genre = genre
