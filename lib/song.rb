@@ -50,7 +50,9 @@
 #     genre_count
 #   end
 # end
-
+require 'pry'
 class Song
   
-end 
+end
+
+binding.pry
