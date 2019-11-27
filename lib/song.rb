@@ -64,7 +64,5 @@ class Song
 end
 
 song1 = Song.new("song1", "artist1", "genre1")
-p song1.name
-puts song1.name
-print song1.name
+
 binding.pry
