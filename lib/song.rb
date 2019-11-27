@@ -72,7 +72,7 @@ class Song
 end
 
 song1 = Song.new("song1", "artist1", "genre1")
-song1 = Song.new("song1", "artist1", "genre1")
-song1 = Song.new("song1", "artist1", "genre1")
+song2 = Song.new("song2", "artist1", "genre1")
+song3 = Song.new("song3", "artist1", "genre1")
 
 binding.pry
