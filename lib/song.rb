@@ -91,7 +91,9 @@ class Song
   
   def self.artists
     @@artists.uniq
-  end 
+  end
+  
+  
   
 end
 
