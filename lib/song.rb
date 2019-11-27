@@ -111,4 +111,4 @@ song1 = Song.new("song1", "artist1", "genre1")
 song2 = Song.new("song2", "artist2", "genre2")
 song3 = Song.new("song3", "artist3", "genre3")
 
-binding.pry
+# binding.pry
