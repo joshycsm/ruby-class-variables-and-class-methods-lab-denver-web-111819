@@ -50,3 +50,7 @@
 #     genre_count
 #   end
 # end
+
+class Song
+  
+end 
